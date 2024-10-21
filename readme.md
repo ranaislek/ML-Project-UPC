@@ -1,7 +1,8 @@
 # Car Auction Price Prediction Project
 
-<img src="https://d3m.upc.edu/en/logosfooter-en/upc/@@images/image" alt="UPC Logo" width="300"/>
-
+<div align="center">
+    <img src="https://d3m.upc.edu/en/logosfooter-en/upc/@@images/image" alt="UPC Logo" width="300"/>
+</div>
 ## Overview
 
 This project is part of the Master’s in Big Data Management and Analytics (BDMA) program at **Universitat Politècnica de Catalunya (UPC)**. It aims to build machine learning models to predict the final selling prices of used cars at auctions. The project utilizes the "Used Car Auction Prices" dataset from Kaggle, which includes various vehicle and auction attributes. By developing predictive models, the goal is to provide accurate price forecasts and identify key factors that influence car auction prices.
